@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+.box{
+    width:200px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 70px;
+    background-color: aqua;
+    border: 1px solid rgba(0, 0, 0, 0.38);
+}
+li{
+    list-style: none;
+    font-size: 18px;
+}
+span{
+    color: #767676;
+    font-size: 16px;
+}
+ol{
+    border-bottom: 2px solid #7b7a89;
+    padding-bottom: 15px;
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+input{
+    display: block;
+    margin: 20px;
+}
+#textname{
+    margin-top: 40px;
+}
+#btn{
+    margin-left: 75px;
+}
